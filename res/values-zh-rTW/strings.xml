@@ -10,7 +10,7 @@
 	<string name="xperia_allowed">允許</string>
 	<string name="xperia_ignored">拒絕</string>
 	<string name="xperia_always_ask">每次詢問</string>
-    <string name="advanced_settings_summary">Changing these settings may break AppOpsXposed. Use with care!</string>
+    <string name="advanced_settings_summary">修改這些設定可能導致 AppOpsXposed 錯誤。使用時請小心！</string>
     <string name="advanced_settings_title">進階設定</string>
     <string name="show_launcher_icon_title">程式圖示</string>
     <string name="show_launcher_icon_summary">顯示程式圖示。如果您的\"設定\"中找不到\"應用程式作業\"才需要勾選。</string>
@@ -40,7 +40,7 @@
 	<string name="build_bugreport_title">建立錯誤報告</string>
 	<string name="build_bugreport_summary">上傳經由 email/Dropbox/Google Drive/等；需要root。</string>
 	<string name="building_toast">建立中&#8230;</string>
-	<string name="use_hack_pm_crash_title">Fix PackageManager</string>
+	<string name="use_hack_pm_crash_title">修復程式安裝器</string>
 	<string name="use_hack_pm_crash_summary">Fixes a crash in a system component that prevents \"%1$s\" from loading.</string>
 	<string name="toast_needs_root">這個操作需要root</string>
 	<string name="show_changed_only_title">顯示更新內容</string>
